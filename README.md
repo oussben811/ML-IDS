@@ -1,7 +1,3 @@
-Here's an expanded, more detailed README file for your project:
-
----
-
 # **Intrusion Detection System Using Machine Learning and Neural Networks**
 
 Developed by: **Oussama BENDADA**  
@@ -123,9 +119,3 @@ Adding missing columns to the test dataset introduced noise, leading to a signif
 This ML and neural network-based IDS demonstrates strong potential for adaptive intrusion detection by combining high-performance models with versatile data preprocessing techniques. Although traditional IDSs are efficient for known threats, our ML-based approach proves more effective in detecting novel, sophisticated attacks. Random Forest stood out as the top model, showing a balance of accuracy, robustness, and interpretability, making it suitable for both binary and multi-class tasks.
 
 ---
-
-### **Thank You!**
-
---- 
-
-This README should give clear insights into the scope, methodology, and outcomes of your project. Let me know if there are specific sections you'd like further expanded or additional technical details you'd like to include!
